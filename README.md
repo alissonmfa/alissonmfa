@@ -1,5 +1,6 @@
 <h1>- Alisson Fernandes - Desenvolvedor PHP - </h1>
 
+- 🎓 Sistemas de Informação
 - 🌱 Estudando Magento 2 e Node.js
 
 
