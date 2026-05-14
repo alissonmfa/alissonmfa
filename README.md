@@ -1,7 +1,8 @@
 <h1>- Alisson Fernandes - Desenvolvedor PHP - </h1>
 
 - 🎓 Sistemas de Informação
-- 🌱 Estudando Magento 2 e Node.js
+- 🌱 Estudando Inglês, Python e IA
+- ✨ Desenvolvimento de soluções de valor e alto impacto para o cliente.
 
 
 <!---
